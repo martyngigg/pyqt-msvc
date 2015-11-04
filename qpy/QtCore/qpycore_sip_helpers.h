@@ -22,7 +22,7 @@
 #define _QPYCORE_SIP_HELPERS_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include "qpycore_chimera.h"
 #include "qpycore_namespace.h"

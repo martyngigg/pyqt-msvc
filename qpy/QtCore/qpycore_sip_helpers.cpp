@@ -20,7 +20,7 @@
 
 #include <string.h>
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QByteArray>
 #include <QMetaObject>

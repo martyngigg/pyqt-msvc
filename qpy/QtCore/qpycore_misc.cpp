@@ -18,7 +18,7 @@
 // WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include "qpycore_misc.h"
 #include "qpycore_types.h"

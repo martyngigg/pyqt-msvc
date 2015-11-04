@@ -22,7 +22,7 @@
 #define _QPYCORE_QOBJECT_HELPERS_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QMetaObject>
 

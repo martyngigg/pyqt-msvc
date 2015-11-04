@@ -22,7 +22,7 @@
 #define _QPYDECLARATIVELISTWRAPPER_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QObject>
 #include <QList>

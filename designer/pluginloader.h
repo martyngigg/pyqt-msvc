@@ -23,7 +23,7 @@
 #ifndef _PLUGINLOADER_H
 #define _PLUGINLOADER_H
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QDesignerCustomWidgetCollectionInterface>
 #include <QList>

@@ -22,7 +22,7 @@
 #define _QPYCORE_PYQTPROPERTY_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 
 class Chimera;

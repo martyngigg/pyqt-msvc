@@ -22,7 +22,7 @@
 #define _QPYCORE_PYQTMETHODPROXY_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QtGlobal>
 #include <QByteArray>

@@ -23,7 +23,7 @@
 #define _QPYCORE_SHARED_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QtGlobal>
 #include <QByteArray>

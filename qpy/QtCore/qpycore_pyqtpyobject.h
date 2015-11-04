@@ -23,7 +23,7 @@
 #define _QPYCORE_PYQTPYOBJECT_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QMetaType>
 #include <QDataStream>

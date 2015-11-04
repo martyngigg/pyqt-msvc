@@ -23,7 +23,7 @@
 #define _QPYCORE_QPYNULLVARIANT_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QVariant>
 

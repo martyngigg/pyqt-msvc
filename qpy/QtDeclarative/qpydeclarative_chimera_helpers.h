@@ -22,7 +22,7 @@
 #define _QPYDECLARATIVECHIMERAHELPERS_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QVariant>
 

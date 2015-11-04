@@ -22,7 +22,7 @@
 #define _QPYDECLARATIVELISTPROPERTY_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 
 extern "C" {

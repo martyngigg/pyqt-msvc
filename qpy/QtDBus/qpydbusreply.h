@@ -22,7 +22,7 @@
 #define _QPYDBUSREPLY_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QDBusError>
 #include <QVariant>

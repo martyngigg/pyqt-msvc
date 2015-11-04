@@ -22,7 +22,7 @@
 #define _QPYCORE_SIP_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include "sipAPIQtCore.h"
 

@@ -22,7 +22,7 @@
 #define _QPYCORE_PYQTBOUNDSIGNAL_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include "qpycore_pyqtsignal.h"
 #include "qpycore_namespace.h"

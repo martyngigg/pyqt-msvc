@@ -22,7 +22,7 @@
 #define _QPYDBUSCHIMERAHELPERS_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QVariant>
 

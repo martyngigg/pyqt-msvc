@@ -20,7 +20,7 @@
 
 #include <ctype.h>
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QMetaObject>
 #include <QMetaType>

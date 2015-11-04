@@ -22,7 +22,7 @@
 #define _QPYCORE_PYQTSIGNAL_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include "qpycore_chimera.h"
 

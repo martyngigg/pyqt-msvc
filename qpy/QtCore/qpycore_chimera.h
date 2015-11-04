@@ -22,7 +22,7 @@
 #define _QPYCORE_CHIMERA_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QByteArray>
 #include <QHash>

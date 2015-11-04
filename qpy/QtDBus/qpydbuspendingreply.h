@@ -22,7 +22,7 @@
 #define _QPYDBUSPENDINGREPLY_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QDBusPendingReply>
 

@@ -22,7 +22,7 @@
 #define _QPYCORE_TYPES_H
 
 
-#include <Python.h>
+#include <wrappython.h>
 
 #include <QByteArray>
 #include <QList>
